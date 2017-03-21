@@ -2,7 +2,7 @@ import argparse, os, time
 import urlparse, random
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-#Facebook Auto Login
+#Gmail Auto Login
 #Coded by | WarLord
 #https://github.com/saanwer
 def getID(url):
